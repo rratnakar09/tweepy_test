@@ -1,6 +1,8 @@
 # tweepy_test
 Testing Tweepy Twitter API
 
+Create a application using "https://developer.twitter.com/en/". Get the API Key, Api secret key, Access token, Access token secret. These credentials will be used in programm to authenticate.
+
 Create a directory, open this directory using terminal<br>
 Clone this repository
 
