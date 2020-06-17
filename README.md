@@ -2,9 +2,9 @@
 Testing Tweepy Twitter API
 
 Create a directory, open this directory using terminal<br>
-Clone this repository<br>
+Clone this repository
 
-Create a virtual environtment with python3(linux)
+Create a virtual environtment with python3(linux)<br>
 python3 -m venv env
 
 Activate virtual environtment<br>
